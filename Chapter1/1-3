@@ -1,6 +1,6 @@
 /* Create the temperature conversion program with a heding above the table
-/print Fahrenheit-Celsius table for fahr = 0, 20, ..., 300;
-/ floating-point ver
+ * print Fahrenheit-Celsius table for fahr = 0, 20, ..., 300;
+ * floating-point ver
 */
 
 #include <stdio.h>
