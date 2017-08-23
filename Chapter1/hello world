@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+main(){
+  printf("Hello, world.\c");
+  printf("This is just a beginning..\n");
+}
