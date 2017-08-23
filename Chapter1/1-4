@@ -1,0 +1,15 @@
+/* Write a proggram to print the corresponding Celsius to Fahrenheit table
+ *
+ * %d		print as decimal integer
+ * %6d 		pint as decimal interger, at least 6 characters wide
+ * %f		print as floating point
+ * %.2f		print as floating point, 2 character after decimal point
+ * %6.2f	print as floating point, at least 6 wide and 2 after decimal
+ * %o		for octal
+ * %x		for hexadecimal
+ * %c		for character
+ * %s		for string
+ * %%		for itelf
+*/
+
+
